@@ -1,0 +1,101 @@
+Quantity,Hardware Description,Grade,Finish,Length (in),Cost Per Part (USD)
+27,"Structural Blind Rivet 1/2""",SAE Grade 5,Hot-Dip Galvanized,11.38,0.67
+17,"A307 1/2"" All Thread Rod",SAE Grade 8,Stainless Steel 304,0.86,2.64
+32,"A502 1/2"" Solid Rivet",ASTM A307 Grade B,Black Oxide,18.65,0.85
+5,M12x1.75 Hex Bolt,ASTM A490,Black Oxide,18.94,5.14
+38,"A449 1/2"" Stud",ASTM A325,Plain Steel,19.82,7.45
+6,M8x1.25 Hex Bolt,SAE J429 Grade 2,Hot-Dip Galvanized,16.3,5.37
+37,"Steel 5/8"" Turnbuckle",ASTM F1554 Grade 105,Black Oxide,15.47,14.06
+27,"A449 1/2"" Stud",SAE Grade 5,Stainless Steel 304,12.62,7.93
+33,M12 Jam Nut,ASTM B8 Class 1,Hot-Dip Galvanized,16.24,0.96
+1,"1/2"" Flat Washer",SAE J429 Grade 5,Zinc-Plated,18.39,0.36
+22,"3/4""-10 Hex Bolt",ASTM A307 Grade A,Black Oxide,8.58,2.54
+50,"3/4"" Flat Washer",SAE J429 Grade 8,Zinc-Plated,19.18,0.37
+25,"1/2"" Wedge Anchor",SAE J429 Grade 8,Zinc-Plated,19.94,5.27
+32,"A193 B7 1/2"" All Thread Rod",SAE J429 Grade 5,Stainless Steel 304,16.8,9.81
+2,"A449 1/2"" Stud",SAE J429 Grade 2,Hot-Dip Galvanized,5.37,3.73
+43,M8x1.25 Hex Bolt,SAE J429 Grade 2,Stainless Steel 304,18.7,7.61
+35,"A449 3/4"" Stud",ASTM A307 Grade A,Plain Steel,5.11,3.03
+35,"A502 3/4"" Solid Rivet",ASTM A354 Grade BD,Black Oxide,10.24,0.51
+48,M12 Jam Nut,SAE Grade 8,Zinc-Plated,15.02,0.83
+18,"A193 B7 1/2"" All Thread Rod",ASTM F1554 Grade 105,Black Oxide,18.23,6.97
+47,M8x1.25 Hex Bolt,ASTM F1554 Grade 36,Zinc-Plated,11.06,3.48
+20,"Steel 5/8"" Turnbuckle",ASTM A354 Grade BD,Zinc-Plated,19.85,18.59
+40,"Hardened Steel 5/8"" Flat Washer",ASTM F1554 Grade 105,Zinc-Plated,13.85,0.28
+33,"3/4"" Flat Washer",ASTM B8M Class 2,Stainless Steel 316,10.27,0.31
+49,"A563 5/8"" Heavy Hex Nut",ASTM A325,Zinc-Plated,14.09,0.78
+45,"A563 3/4"" Heavy Hex Nut",ASTM B8M Class 2,Stainless Steel 316,10.1,0.83
+46,"A563 5/8"" Heavy Hex Nut",ASTM B8 Class 1,Stainless Steel 316,10.11,0.83
+12,"3/4"" Flange Nut",ASTM A354 Grade BC,Hot-Dip Galvanized,18.9,1.09
+39,"A449 1/2"" Stud",ASTM F1554 Grade 36,Stainless Steel 304,1.22,2.8
+17,"1/2"" Wedge Anchor",ASTM A307 Grade B,Zinc-Plated,15.42,4.27
+20,"1/2"" Flat Washer",SAE J429 Grade 2,Hot-Dip Galvanized,15.5,0.34
+6,"Steel 5/8"" Turnbuckle",SAE J429 Grade 2,Zinc-Plated,1.02,5.13
+38,"A449 3/4"" Stud",ASTM A490,Stainless Steel 304,12.84,8.03
+6,"A502 1/2"" Solid Rivet",ASTM F1554 Grade 36,Hot-Dip Galvanized,10.68,0.63
+37,"A449 1/2"" Stud",ASTM A354 Grade BC,Hot-Dip Galvanized,10.87,5.71
+13,M16x2.0 Hex Bolt,ASTM A325,Hot-Dip Galvanized,13.76,4.61
+2,"1/2"" Lock Nut",SAE Grade 5,Plain Steel,16.56,0.81
+16,"3/4"" Flange Nut",SAE Grade 8,Hot-Dip Galvanized,6.5,0.49
+5,"1/2""-13 Hex Bolt",SAE Grade 5,Hot-Dip Galvanized,17.24,5.65
+44,M16x2.0 Hex Bolt,SAE J429 Grade 2,Hot-Dip Galvanized,12.45,4.21
+18,"Steel 5/8"" Turnbuckle",SAE J429 Grade 2,Stainless Steel 304,4.32,10.21
+44,"A449 3/4"" Stud",ASTM F1554 Grade 36,Plain Steel,8.44,4.03
+22,"1/4""-20 Hex Bolt",ASTM B8 Class 1,Plain Steel,5.09,1.67
+50,"F1554 5/8"" Anchor Bolt",ASTM F1554 Grade 36,Black Oxide,3.95,1.39
+22,"1/2"" Wedge Anchor",ASTM A490,Plain Steel,13.54,3.51
+44,"3/4"" Flat Washer",SAE J429 Grade 2,Plain Steel,1.16,0.07
+34,M12x1.75 Hex Bolt,SAE J429 Grade 2,Plain Steel,9.14,2.69
+50,M12x1.75 Hex Bolt,ASTM A307 Grade A,Plain Steel,7.52,2.28
+25,"3/4""-10 Hex Bolt",SAE J429 Grade 2,Hot-Dip Galvanized,10.68,3.68
+30,"3/4"" Flat Washer",ASTM A325,Hot-Dip Galvanized,15.21,0.33
+19,"1""-8 Hex Bolt",ASTM A325,Zinc-Plated,3.3,1.35
+45,"1/2""-13 Hex Bolt",SAE J429 Grade 2,Plain Steel,14.26,3.96
+38,M12x1.75 Hex Bolt,ASTM F1554 Grade 36,Zinc-Plated,12.82,3.97
+6,"1/2"" Lock Nut",ASTM A307 Grade B,Hot-Dip Galvanized,4.62,0.4
+25,"Structural Blind Rivet 1/2""",SAE J429 Grade 5,Hot-Dip Galvanized,3.31,0.28
+23,"A502 1/2"" Solid Rivet",ASTM A307 Grade B,Stainless Steel 316,7.1,0.58
+3,"1/2"" Wedge Anchor",SAE Grade 5,Zinc-Plated,15.51,4.29
+13,M16x2.0 Hex Bolt,ASTM A354 Grade BD,Plain Steel,15.51,4.28
+7,M12x1.75 Hex Bolt,ASTM B8M Class 2,Stainless Steel 316,6.92,3.19
+18,"F1554 3/4"" Anchor Bolt",ASTM B8M Class 2,Stainless Steel 316,11.49,4.91
+40,"A502 3/4"" Solid Rivet",SAE Grade 5,Black Oxide,3.3,0.23
+29,M10x1.5 Hex Bolt,SAE Grade 5,Stainless Steel 304,11.75,5.01
+26,"A563 5/8"" Heavy Hex Nut",ASTM F1554 Grade 36,Plain Steel,1.49,0.21
+36,"3/4"" Expansion Anchor",SAE Grade 8,Hot-Dip Galvanized,7.32,2.72
+22,"1/2"" Flat Washer",SAE Grade 8,Zinc-Plated,10.49,0.23
+20,"3/8""-16 Hex Bolt",ASTM B8 Class 1,Stainless Steel 304,6.84,3.17
+49,"A449 1/2"" Stud",ASTM A354 Grade BC,Stainless Steel 316,16.95,9.88
+11,"1/2"" Wedge Anchor",SAE J429 Grade 8,Zinc-Plated,2.07,1.34
+4,"1/2"" Wedge Anchor",ASTM A307 Grade B,Hot-Dip Galvanized,5.58,2.3
+30,"A502 1/2"" Solid Rivet",ASTM B8M Class 2,Hot-Dip Galvanized,15.76,0.88
+22,M10x1.5 Hex Bolt,ASTM A354 Grade BD,Plain Steel,2.63,1.06
+28,"A502 3/4"" Solid Rivet",SAE Grade 8,Zinc-Plated,19.02,0.95
+9,M10x1.5 Hex Bolt,ASTM F1554 Grade 36,Zinc-Plated,11.02,3.47
+5,"3/4"" Expansion Anchor",SAE J429 Grade 2,Hot-Dip Galvanized,9.97,3.35
+2,"3/4""-10 Hex Bolt",SAE J429 Grade 2,Black Oxide,17.25,4.71
+24,"A307 1/2"" All Thread Rod",ASTM A354 Grade BC,Stainless Steel 316,9.49,6.52
+10,"A449 1/2"" Stud",ASTM A325,Black Oxide,5.78,3.23
+15,"3/4"" Expansion Anchor",ASTM A307 Grade B,Stainless Steel 316,19.08,6.92
+38,"Steel 5/8"" Turnbuckle",SAE J429 Grade 5,Zinc-Plated,15.05,15.16
+42,"A563 5/8"" Heavy Hex Nut",ASTM A490,Plain Steel,7.98,0.47
+20,"A502 1/2"" Solid Rivet",SAE J429 Grade 2,Stainless Steel 316,11.1,0.82
+37,"Aluminum 3/4"" Turnbuckle",ASTM A325,Black Oxide,19.37,16.59
+37,"Hardened Steel 5/8"" Flat Washer",ASTM F1554 Grade 36,Zinc-Plated,5.47,0.15
+16,"A449 1/2"" Stud",ASTM A490,Stainless Steel 316,18.89,10.75
+49,"A563 3/4"" Heavy Hex Nut",ASTM B8M Class 2,Hot-Dip Galvanized,2.7,0.31
+11,"1/2""-13 Hex Bolt",ASTM F1554 Grade 55,Plain Steel,4.18,1.44
+44,"Steel 5/8"" Turnbuckle",SAE Grade 5,Black Oxide,5.92,7.85
+11,M10x1.5 Hex Bolt,ASTM F1554 Grade 105,Plain Steel,17.67,4.82
+45,"Aluminum 3/4"" Turnbuckle",SAE J429 Grade 5,Stainless Steel 304,9.11,14.88
+43,M12x1.75 Hex Bolt,ASTM F1554 Grade 105,Black Oxide,8.3,2.48
+7,"Aluminum 3/4"" Turnbuckle",SAE Grade 8,Stainless Steel 316,8.08,13.88
+25,"1/2"" Wedge Anchor",ASTM F1554 Grade 55,Black Oxide,16.26,4.05
+30,"Structural Blind Rivet 1/2""",ASTM A325,Stainless Steel 304,5.62,0.49
+17,"A193 B7 1/2"" All Thread Rod",ASTM B8M Class 2,Hot-Dip Galvanized,16.34,7.68
+46,"1/2""-13 Hex Bolt",ASTM F1554 Grade 36,Hot-Dip Galvanized,11.63,3.97
+6,"A307 1/2"" All Thread Rod",ASTM A307 Grade B,Stainless Steel 316,15.49,9.22
+45,M8x1.25 Hex Bolt,ASTM A307 Grade A,Plain Steel,1.9,0.88
+9,M12 Jam Nut,ASTM A325,Stainless Steel 316,1.73,0.33
+41,"1/2"" Wedge Anchor",ASTM A354 Grade BC,Zinc-Plated,1.73,1.26
+18,"F1554 3/4"" Anchor Bolt",ASTM A325,Zinc-Plated,7.57,2.52
